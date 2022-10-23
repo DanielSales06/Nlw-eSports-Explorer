@@ -6,7 +6,9 @@
 
 Projeto construido no evento Next level Week da Rocketseat.
 
-Um projeto para conectar seus gamers e streamers da Twitch em um so lugar.
+## 🗨️ Sobre o Projeto 
+
+  Um projeto para conectar seus gamers e streamers da Twitch em um so lugar.
 
 ⭐[Clique aqui para acessar]()
 
